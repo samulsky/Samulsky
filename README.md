@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samulsky
 - 👀 I’m interested in Technology, Video Games and AI
 - 🌱 I’m currently studying Computer Science, Vision and Games at Aberystwyth University
-- 💞️ I’m looking to collaborate on projects in Java
+- 💞️ I’m looking to collaborate on projects in Java and JavaScript
 - 📫 How to reach me - bartosz.j.samulski@gmail.com ; +48 669008548
 
 <!---
